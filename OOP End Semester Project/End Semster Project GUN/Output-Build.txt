@@ -1,0 +1,126 @@
+﻿1>------ Build started: Project: End Semster Project GUN, Configuration: Debug Win32 ------
+1>Build started 5/26/2013 10:05:14 PM.
+1>InitializeBuildStatus:
+1>  Creating "Debug\End Semster Project GUN.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  MAIN.cpp
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(17): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(44): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(73): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(94): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(100): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(106): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(112): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(118): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(124): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(130): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(141): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(163): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(169): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(188): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(190): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(236): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(237): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(238): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(239): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(240): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\route.h(241): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\train.h(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\train.h(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\train.h(105): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\train.h(133): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\train.h(168): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\train.h(175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\train.h(182): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\person.h(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\person.h(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\person.h(33): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\person.h(48): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\person.h(75): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\person.h(91): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\person.h(93): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\person.h(110): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\person.h(61): warning C4102: 're' : unreferenced label
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\person.h(51): warning C4101: 'a' : unreferenced local variable
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\person.h(78): warning C4101: 'a' : unreferenced local variable
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\person.h(113): warning C4101: 'a' : unreferenced local variable
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\traveller.h(29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\traveller.h(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\traveller.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\traveller.h(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\traveller.h(74): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\traveller.h(80): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\traveller.h(110): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\traveller.h(116): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\traveller.h(122): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\traveller.h(128): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\ticket.h(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\ticket.h(47): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\ticket.h(70): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+1>c:\users\umair\documents\visual studio 2010\projects\end semster project gun\end semster project gun\ticket.h(76): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>ManifestResourceCompile:
+1>  All outputs are up-to-date.
+1>Manifest:
+1>  All outputs are up-to-date.
+1>LinkEmbedManifest:
+1>  All outputs are up-to-date.
+1>  End Semster Project GUN.vcxproj -> C:\Users\Umair\documents\visual studio 2010\Projects\End Semster Project GUN\Debug\End Semster Project GUN.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\End Semster Project GUN.unsuccessfulbuild".
+1>  Touching "Debug\End Semster Project GUN.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:08.42
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
